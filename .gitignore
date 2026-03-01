@@ -94,5 +94,8 @@ lint/tmp/
 # MacOS
 .DS_Store
 
-# App Specific cases
+# App specific cases
 app/release/output.json
+
+# Backup files
+*.ab
